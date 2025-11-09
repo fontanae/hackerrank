@@ -1,0 +1,14 @@
+[
+    {
+        "id": "P001",
+        "name": "Teclado Gamer",
+        "description": "Teclado mecánico switch blue",
+        "value": 45000
+    },
+    {
+        "id": "P002",
+        "name": "Mouse Logitech",
+        "description": "Mouse inalámbrico",
+        "value": 35000
+    }
+]
